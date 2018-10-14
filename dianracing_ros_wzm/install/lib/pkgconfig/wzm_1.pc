@@ -1,0 +1,8 @@
+prefix=/home/zhamao/wuzeming1751058/dianracing_ros_wzm/install
+
+Name: wzm_1
+Description: Description of wzm_1
+Version: 0.0.0
+Cflags: -I/home/zhamao/wuzeming1751058/dianracing_ros_wzm/install/include
+Libs: -L/home/zhamao/wuzeming1751058/dianracing_ros_wzm/install/lib 
+Requires: 
